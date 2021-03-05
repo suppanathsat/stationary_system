@@ -11,6 +11,7 @@ $servername = "localhost";<br>
 $username = "your_user";<br>
 $password = "your_password";<br>
 $dbname = "stationarysystem";<br>
-
+<hr>
+<br>
 ![image](https://user-images.githubusercontent.com/80107228/110158462-ff74e600-7e1b-11eb-8c24-7e8ac19fa0fd.png)
 
