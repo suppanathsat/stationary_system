@@ -2,11 +2,11 @@
 - ทำส่งอาจารย์ในวิชา ICT313 การบูรณาการการเขียนโปรแกรมและเทคโนโลยี
   โปรเจคนี้ใช้ Bootstrap - SB Admin 2 เป็น template 
 
-ขั้นตอนการติดตั้ง 
-1 import nursing_service.sql to mysql database and name it nursing_service
-2 set file connect.php
-
-$servername = "localhost";
-$username = "your_user";
-$password = "your_password";
-$dbname = "nursing_service";
+ขั้นตอนการติดตั้ง <br>
+1 import nursing_service.sql to mysql database and name it nursing_service <br>
+2 set file connect.php <br>
+<br>
+$servername = "localhost";<br>
+$username = "your_user";<br>
+$password = "your_password";<br>
+$dbname = "nursing_service";<br>
